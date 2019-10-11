@@ -10,6 +10,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         //Test 1
+        //Test 2
         // This is the theme of your application.
         //
         // Try running your application with "flutter run". You'll see the
